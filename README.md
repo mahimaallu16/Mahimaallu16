@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shruti Singh</h1>
-<h3 align="center">A B.tech Computer Science Engineering student based in Bengaluru, Karnataka, India.</h3>
+<h1 align="center">Hi 👋, I'm MAHIMA ALLU</h1>
+<h3 align="center">A B.tech Computer Science Engineering student.</h3>
 
 <br>🔭 I’m currently working on my final year capstone project, PatenTrac, exploring innovative solutions for enhancing legal research and analysis in the law domain field.<br><br>👯 I’m looking to collaborate on exciting projects that push the boundaries of technology and creativity.<br><br>🤝 I’m looking for help with diving deeper into graph neural networks and optimizing machine learning algorithms for real-world applications.<br><br>🌱 I’m currently learning about advanced topics in machine learning, including graph neural networks and language model fine-tuning.<br><br>💬 Ask me about anything related to data analytics, graphic design, or exploring new languages and cultures!<br><br>⚡ Fun fact: I'm an avid painter and love to immerse myself in creative projects. I also enjoy learning new languages and exploring different cultures.
 <br>
